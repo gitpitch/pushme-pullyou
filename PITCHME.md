@@ -76,3 +76,6 @@ end
 ```
 @snapend
 
+Note:
+
+This is a test speaker note.
